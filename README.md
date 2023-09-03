@@ -4,3 +4,5 @@ Package 1 :- Github
 
 Package 2 :- News
     in this calls are made to render public api so as to retrieve and insert data
+
+Testing of external api has been done using Wiremock
